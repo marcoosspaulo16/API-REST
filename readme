@@ -1,1 +1,6 @@
+// first step install docker and `pg client`
 
+- install express
+- Install `node-pg-migrate@6.2.2`
+- Install `dotenv@16.4.4`
+- Rodar Migrations `npm run migration:up`
